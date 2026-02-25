@@ -1,11 +1,11 @@
-# 🎯 WANTED Poster Generator
+#  WANTED Poster Generator
 
 A fun and simple **desktop application** to create WANTED posters from images, built with **Python** and **Tkinter**.
 Add “WANTED” and “REWARD” banners, then save your poster as a PDF.
 
 ---
 
-## ✨ Features
+##  Features
 
 * Upload any image
 * Add top banner **“WANTED”**
@@ -16,7 +16,7 @@ Add “WANTED” and “REWARD” banners, then save your poster as a PDF.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python 3**
 * **Tkinter** – GUI framework
@@ -25,7 +25,7 @@ Add “WANTED” and “REWARD” banners, then save your poster as a PDF.
 
 ---
 
-## 📦 Installation
+##  Installation
 
 Clone the repository:
 
@@ -44,7 +44,7 @@ Make sure the **Font/LibreBodoni-Medium.ttf** file is present, or the app will f
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 Run the application:
 
@@ -59,7 +59,7 @@ python wantedposter.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 wanted-poster/
@@ -72,13 +72,13 @@ wanted-poster/
 
 ---
 
-## 📸 Video
+##  Video
 
 ![2026-01-1116-12-42-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/02a4daf4-5f15-46e4-adc6-00d1f4ba98c7)
 
 ---
 
-## 🚀 Possible Improvements
+##  Possible Improvements
 
 * Custom text for top and bottom banners
 * Custom reward amount
@@ -88,6 +88,6 @@ wanted-poster/
 
 ---
 
-## 📄 License
+##  License
 
 This project is intended for **educational and personal use**.
